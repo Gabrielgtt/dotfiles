@@ -13,7 +13,7 @@ Plug 'junegunn/fzf.vim'
 
 Plug 'christoomey/vim-tmux-navigator'
 
-" Style
+"   Style
 Plug 'morhetz/gruvbox'
 Plug 'bling/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
@@ -58,6 +58,7 @@ set splitbelow
 set hlsearch
 set incsearch
 set cursorline
+set expandtab
 
 inoremap {<CR> {<CR>}<Esc>O
 
