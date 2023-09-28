@@ -1,0 +1,391 @@
+{
+  "main": {
+    "id": "b9cb9dc32419b1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d47fffb3b0613c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d534864f54e3a9ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Immix - A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91533cd9f28299ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mestrado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79cd8e89df4d09f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qualificação do mestrado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ac4f1f4bf498f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SerialGC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e017c244cd8e6fc4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/blackburn2008.pdf"
+              }
+            }
+          },
+          {
+            "id": "ac24bb48f0eb5f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18955f4d7797745a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Automatic memory management - Application memory from SO perspective.md"
+              }
+            }
+          },
+          {
+            "id": "9ec99047598e472c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/serverless-lifetime-allocations.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "311ecafcc006c48c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/auxiliar-canvas-for-exporting.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "fa2612f446c9b69c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/memory-layout.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6c3976ff9ca5660a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/lengauer2017.pdf"
+              }
+            }
+          },
+          {
+            "id": "aaafd445b18fc00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distilling the Real Cost of Production Garbage Collectors.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0e892962f4f0890",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/zhao2022.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b91ba859637aae29",
+    "type": "split",
+    "children": [
+      {
+        "id": "38a735469e764449",
+        "type": "tabs",
+        "dimension": 29.154795821462486,
+        "children": [
+          {
+            "id": "dae2ff6d7f2c7b6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1abb721ca94519e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#carga",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db39a34070ab3f9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "be8dc42a890b9d7f",
+        "type": "tabs",
+        "dimension": 70.84520417853751,
+        "children": [
+          {
+            "id": "4875e81e68787cd2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e67deb4196e3ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b091bac4eef43f3d",
+        "type": "tabs",
+        "dimension": 62.4390243902439,
+        "children": [
+          {
+            "id": "321d014c65f71ef0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/auxiliar-canvas-for-exporting.excalidraw.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.664835164835165,
+                  "repelStrength": 20,
+                  "linkStrength": 0.912087912087912,
+                  "linkDistance": 224,
+                  "scale": 0.3181048421316062,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "f7d22bce3a281d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/auxiliar-canvas-for-exporting.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33c7e006fe7f2341",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d08243e652264b58",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "98e38c88cf5336b7",
+        "type": "tabs",
+        "dimension": 37.5609756097561,
+        "children": [
+          {
+            "id": "0db68af7cb544506",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 831.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "311ecafcc006c48c",
+  "lastOpenFiles": [
+    "Excalidraw/serverless-lifetime-allocations.excalidraw.md",
+    "Excalidraw/auxiliar-canvas-for-exporting.excalidraw.md",
+    "Excalidraw/Automatic memory management - Application memory from SO perspective.md",
+    "Excalidraw/memory-layout.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-23 00.46.05.excalidraw.md",
+    "GC.md",
+    "PDFs/blackburn2008.pdf",
+    "SerialGC.md",
+    "Qualificação do mestrado.md",
+    "Mestrado.md",
+    "Immix - A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance.md",
+    "Distilling the Real Cost of Production Garbage Collectors.md",
+    "PDFs/zhao2022.pdf",
+    "PDFs/lengauer2017.pdf",
+    "A Comprehensive Java Benchmark Study on Memory and Garbage Collection Behavior of DaCapo, DaCapo Scala, and SPECjvm2008.md",
+    "Selecting a GC for Java Applications.md",
+    "Referências bibliográficas do Mestrado.md",
+    "Low-Latency, High-Throughput Garbage Collection.md",
+    "The Uphill Journey of FaaS in the Open-Source Community.md",
+    "Excalidraw/big-heap.excalidraw.md",
+    "Excalidraw/entrevista-vtex-system-design.excalidraw.md",
+    "Calendar/2023-09-18.md",
+    "Excalidraw/Application Memory example.md",
+    "Quadro da Qualificação do mestrado.canvas",
+    "Light & Heavy Workloads.md",
+    "Replayer.md",
+    "Excalidraw/Programming language runtime.md",
+    "Excalidraw/Garbage Collector and the heap.md",
+    "Excalidraw/Automatic Memory Management - Traditional vs Event-driven.md",
+    "PDFs/copik2021.pdf",
+    "PDFs/martins2020.pdf",
+    "The tail at scale.md",
+    "PDFs/scheuner2022.pdf",
+    "PDFs/somu2020.pdf",
+    "PDFs/leitner2019.pdf",
+    "PDFs/A_mixed-method_empirical_study_of_Function-as-a-Se.pdf",
+    "Exports/Plano de qualificação do mestrado.docx",
+    "Pasted image 20230323101431.png",
+    "Pasted image 20230313094257.png",
+    "Excalidraw/Drawing 2023-03-11 18.29.15.excalidraw.png",
+    "Primeiro paper do mestrado.canvas",
+    "Table 1 of the copik2021 paper.png",
+    "Serverless applications for the benchmark in scheuner2022.png",
+    "Plot ICs 99th perc latencia.png",
+    "Pasted image 20230201231037.png",
+    "Pasted image 20230125110641.png",
+    "Pasted image 20230125110625.png",
+    "Pasted image 20221214161840.png",
+    "Orchestrator Serverless Benchmark.canvas",
+    "pandora/Primeiro paper do mestrado.canvas",
+    "pandora/Orchestrator Serverless Benchmark.canvas"
+  ]
+}
